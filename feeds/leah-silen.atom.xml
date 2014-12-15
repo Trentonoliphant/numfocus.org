@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>NumFOCUS Foundation</title><link href="http://numfocus.github.io/numfocus.org/" rel="alternate"></link><link href="http://numfocus.github.io/numfocus.org/feeds/leah-silen.atom.xml" rel="self"></link><id>http://numfocus.github.io/numfocus.org/</id><updated>2013-12-06T00:00:00-06:00</updated><entry><title>JP Morgan’s Diamond Sponsorship brings over $125,000 to NumFOCUS’s Educational Programs</title><link href="http://numfocus.github.io/numfocus.org/news/2013/12/06/wip-2013/" rel="alternate"></link><updated>2013-12-06T00:00:00-06:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2013-12-06:numfocus.org/news/2013/12/06/wip-2013/</id><summary type="html">&lt;p&gt;We would like to thank &lt;span class="caps"&gt;JP&lt;/span&gt; Morgan for their generosity and continued support of
+our educational efforts. These funds, in addition to sponsorship of PyData,
+support our Women in Technology Initiatives, and will also provide the funding
+needed to kick off the John Hunter Technical&amp;nbsp;Fellowship.&lt;/p&gt;
+&lt;p&gt;Our Women in Technology Initiatives have included: the Women in Science and
+Education (WiSE) Bootcamp in Boston and The Women in Technology (WiT) Workshop
+at PyData &lt;span class="caps"&gt;NYC&lt;/span&gt;. We are in the process of working with our bootcamp partner,
+&lt;a class="reference external" href="http://software-carpentry.org/"&gt;Software Carpentry&lt;/a&gt;, on an upcoming event in&amp;nbsp;Oakland.&lt;/p&gt;
+&lt;p&gt;Watch for information coming soon on our first John Hunter Technical&amp;nbsp;Fellowship.&lt;/p&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="violin at WiT" src="http://numfocus.github.io/numfocus.org/media/img/articles/wit2013_1.jpeg" /&gt;
+&lt;/div&gt;
+&lt;div class="figure"&gt;
+&lt;img alt="WiT audience" src="http://numfocus.github.io/numfocus.org/media/img/articles/wit2013_2.jpeg" /&gt;
+&lt;p class="caption"&gt;WiT Workshop panel discusion on how Python, and programming in general,
+is influencing and shaping the working&amp;nbsp;world.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>J.P. Morgan sponsors PyData and Women in Technology</title><link href="http://numfocus.github.io/numfocus.org/news/2013/11/08/jp-morgan-sponsors-pydata-and-women-in-technology/" rel="alternate"></link><updated>2013-11-08T00:00:00-06:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2013-11-08:numfocus.org/news/2013/11/08/jp-morgan-sponsors-pydata-and-women-in-technology/</id><summary type="html">&lt;img alt="JPMorgan logo" src="http://numfocus.github.io/numfocus.org/media/img/sponsors/Logo2008_JPM_D_Black.png" style="height: 100px;" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.pydata.org/nyc2013"&gt;PyData &lt;span class="caps"&gt;NYC&lt;/span&gt;&lt;/a&gt; was held in &lt;span class="caps"&gt;NYC&lt;/span&gt; at the &lt;span class="caps"&gt;J.P.&lt;/span&gt; Morgan facilities where attendees were
+treated to spectacular views of the Manhattan skyline while listening to Keynote
+talks by &lt;a class="reference external" href="http://pydata.org/nyc2013/keynotes/#bio_105"&gt;Peter Wang&lt;/a&gt; and &lt;a class="reference external" href="http://pydata.org/nyc2013/keynotes/#bio_106"&gt;Brian Granger&lt;/a&gt;.   Thanks to the generous donation
+of their facility by &lt;span class="caps"&gt;J.P.&lt;/span&gt; Morgan and other sponsors of the conference,
+net proceeds from PyData &lt;span class="caps"&gt;NYC&lt;/span&gt; will be able to provide resources to NumFOCUS to
+further its mission which included sponsoring over 20 diversity scholarships to the&amp;nbsp;conference.&lt;/p&gt;
+&lt;p&gt;&lt;span class="caps"&gt;J.P.&lt;/span&gt; Morgan also made possible, through sponsorship and participation, a special
+Women in Technology event held in conjunction the conference in which more than
+60 high-school girls from around New York City were able to be instructed and
+motivated by women in technical positions at &lt;span class="caps"&gt;J.P.&lt;/span&gt; Morgan and&amp;nbsp;elsewhere.&lt;/p&gt;
+&lt;p&gt;NumFOCUS was founded, to promote this kind of collaboration between open-source
+communities and companies with a need for technical computing. For information on
+how your company can support NumFOCUS and its affiliated projects, please our
+&lt;a class="reference external" href="http://numfocus.org/donations.html"&gt;donations page&lt;/a&gt; or contact us directly at &lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Microsoft Corporation sponsors IPython</title><link href="http://numfocus.github.io/numfocus.org/news/2013/09/27/microsoft-corporation-sponsors-ipython/" rel="alternate"></link><updated>2013-09-27T00:00:00-05:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2013-09-27:numfocus.org/news/2013/09/27/microsoft-corporation-sponsors-ipython/</id><summary type="html">&lt;img alt="Microsoft logo" src="http://numfocus.github.io/numfocus.org/media/img/sponsors/microsoft-logo.jpg" style="height: 70px;" /&gt;
+&lt;p&gt;NumFOCUS and &lt;a class="reference external" href="http://ipython.org"&gt;IPython&lt;/a&gt; are thrilled to announce that in August 2013, Microsoft
+made a donation of $100,000 to sponsor IPython&amp;#8217;s continued development.
+Microsoft and IPython have had a fruitful collaboration, dating back to 2009,
+involving Microsoft&amp;#8217;s Windows &lt;span class="caps"&gt;HPC&lt;/span&gt; Server, &lt;a class="reference external" href="http://pytools.codeplex.com"&gt;Python Tools for Visual Studio&lt;/a&gt;,
+and an &lt;a class="reference external" href="http://www.windowsazure.com/en-us/develop/python/tutorials/ipython-notebook"&gt;Azure-based workflow&lt;/a&gt;.  The response from the IPython team is posted
+in their &lt;a class="reference external" href="http://ipython.org/microsoft-donation-2013.html"&gt;announcement&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;NumFOCUS was founded, in part, to foster this type of collaboration between
+open source scientific tools and companies who value this shared computational
+infrastructure.  For information on how your company can support NumFOCUS and its
+affiliated projects, please our &lt;a class="reference external" href="http://numfocus.org/donations.html"&gt;donations page&lt;/a&gt; or contact us directly at &lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Share your stories of how you use NumFOCUS supported tools</title><link href="http://numfocus.github.io/numfocus.org/news/2013/07/12/share-your-stories-of-how-you-use-numfocus-supported-tools/" rel="alternate"></link><updated>2013-07-12T00:00:00-05:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2013-07-12:numfocus.org/news/2013/07/12/share-your-stories-of-how-you-use-numfocus-supported-tools/</id><summary type="html">&lt;p&gt;Read how others are you the tools NumFOCUS supports in  &lt;a class="reference external" href="/category/user-stories.html"&gt;User Stories&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Let the community know how you&amp;#8217;re using the tools NumFOCUS supports. &amp;nbsp;Send your stories to: &lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt;.&lt;/p&gt;
+&lt;!-- XXX pelican can't generate a link to the category page.  Hardcode it instead.  Bad. --&gt;
+</summary></entry><entry><title>Python’s Use in Science</title><link href="http://numfocus.github.io/numfocus.org/news/2013/07/05/pythons-use-in-science/" rel="alternate"></link><updated>2013-07-05T00:00:00-05:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2013-07-05:numfocus.org/news/2013/07/05/pythons-use-in-science/</id><summary type="html">&lt;p&gt;Please send links to papers, blogs, articles, or announcements that show
+Python&amp;#8217;s use in science to &lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>SciPy 2013</title><link href="http://numfocus.github.io/numfocus.org/news/2013/07/05/scipy-2013/" rel="alternate"></link><updated>2013-07-05T00:00:00-05:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2013-07-05:numfocus.org/news/2013/07/05/scipy-2013/</id><summary type="html">&lt;p&gt;&lt;a class="reference external" href="http://conference.scipy.org/scipy2013/index.php"&gt;SciPy 2013&lt;/a&gt;, the twelfth annual Scientific Computing with Python conference,
+will be held June 24th - 29th in Austin, Texas.  The main conference themes are
+Machine Learning &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Reproducible&amp;nbsp;Science.&lt;/p&gt;
+</summary></entry><entry><title>Call for Speakers</title><link href="http://numfocus.github.io/numfocus.org/news/2013/07/04/call-for-speakers/" rel="alternate"></link><updated>2013-07-04T00:00:00-05:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2013-07-04:numfocus.org/news/2013/07/04/call-for-speakers/</id><summary type="html">&lt;p&gt;The call for speakers for PyData Boston (July 27-28th) is now open. If you are
+interested in presenting a talk on how you use Python for data management,
+analytics, or visualization or leading a tutorial session, please email a short
+description of your idea, including whether it is a beginner or advanced
+presentation, to &lt;a class="reference external" href="mailto:boston_proposals&amp;#64;pydata.org"&gt;boston_proposals&amp;#64;pydata.org&lt;/a&gt;. The initial call-for-speakers for
+PyData Boston will be open through May 31st,&amp;nbsp;2013.&lt;/p&gt;
+</summary></entry><entry><title>Women in Technology Initiatives</title><link href="http://numfocus.github.io/numfocus.org/news/2013/02/26/boot-camp-for-women-in-science-engineering/" rel="alternate"></link><updated>2013-02-26T17:58:00-06:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2013-02-26:numfocus.org/news/2013/02/26/boot-camp-for-women-in-science-engineering/</id><summary type="html">&lt;div class="section" id="women-in-science-engineering-boot-camps"&gt;
+&lt;h2&gt;Women in Science &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt; Engineering Boot&amp;nbsp;Camps&lt;/h2&gt;
+&lt;p&gt;On June 24-25 &lt;a class="reference external" href="http://numfocus.org/"&gt;NumFOCUS&lt;/a&gt;&amp;nbsp;and &lt;a class="reference external" href="http://software-carpentry.org/"&gt;Software Carpentry&lt;/a&gt;,&amp;nbsp;are hosting a
+software skills boot camp for 120 women in science and engineering at
+Microsoft Research in Boston. We are seeking sponsorship from companies
+and others who would like to support our efforts to hold similar boot
+camps in other&amp;nbsp;locations.&lt;/p&gt;
+&lt;div class="section" id="what-is-a-boot-camp"&gt;
+&lt;h3&gt;What is a Boot&amp;nbsp;Camp?&lt;/h3&gt;
+&lt;p&gt;These two-day workshops teach scientists how to write, test and manage
+research software. Topics covered include the Unix shell, version
+control, basic Python programming, testing, and debugging Boot camps are
+example-driven and alternate short tutorials with hands-on practical
+exercises. Since learners work on their own laptops, they leave with a
+set of working tools they can use immediately to increase their
+productivity and improve confidence in their&amp;nbsp;results.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="what-is-the-funding-for"&gt;
+&lt;h3&gt;What is the Funding&amp;nbsp;For?&lt;/h3&gt;
+&lt;p&gt;NumFOCUS and Software Carpentry are non-profit organizations, and all of
+our instructors are volunteers. Donations to the Boot Camp for Women
+will cover the cost of travel and lodging for instructors, as well as
+incidental expenses such as&amp;nbsp;refreshments.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="how-can-i-contribute"&gt;
+&lt;h3&gt;How Can I&amp;nbsp;Contribute?&lt;/h3&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;PayPal&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;&lt;p&gt;&lt;em&gt;Google&amp;nbsp;Checkout&lt;/em&gt;&lt;/p&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: middle;"&gt;
+&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
+&lt;/form&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: middle;"&gt;
+&lt;script type="text/javascript"&gt;// &lt; ![CDATA[&lt;/p&gt;
+&lt;p&gt;function validateAmount(amount){&lt;br&gt;&lt;/br&gt;
+    if(amount.value.match( /^[0-9]+(\.([0-9]+))?$/)){&lt;br&gt;&lt;/br&gt;
+        return true;&lt;br&gt;&lt;/br&gt;
+    }else{&lt;br&gt;&lt;/br&gt;
+        alert('You must enter a valid donation.');&lt;br&gt;&lt;/br&gt;
+        amount.focus();&lt;br&gt;&lt;/br&gt;
+        return false;&lt;br&gt;&lt;/br&gt;
+    }&lt;br&gt;&lt;/br&gt;
+}&lt;br&gt;&lt;/br&gt;
+// ]]&gt;&lt;/script&gt;
+&lt;form id="BB_BuyButtonForm" action="https://checkout.google.com/cws/v2/Donations/112611646391039/checkoutForm" method="post" name="BB_BuyButtonForm" target="_top" onsubmit="return validateAmount(this.item_price_1)"&gt;
+&lt;/p&gt;&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="60%" /&gt;
+&lt;col width="40%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;$&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/form&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;Suggested minimum donation:&amp;nbsp;$10&lt;/p&gt;
+&lt;div class="section" id="women-in-technology-workshops"&gt;
+&lt;h4&gt;Women in Technology&amp;nbsp;Workshops&lt;/h4&gt;
+&lt;p&gt;These half-day events will be presented by NumFOCUS and held in
+conjunction with certain PyData conferences. &amp;nbsp;The first workshop will be
+held in the fall at PyData &lt;span class="caps"&gt;NYC&lt;/span&gt;. More information coming&amp;nbsp;soon.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Current Fundraising Efforts:</title><link href="http://numfocus.github.io/numfocus.org/news/2013/02/26/numfocus-is-currently-raising-funds-for-the-following/" rel="alternate"></link><updated>2013-02-26T16:36:00-06:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2013-02-26:numfocus.org/news/2013/02/26/numfocus-is-currently-raising-funds-for-the-following/</id><summary type="html">&lt;div class="section" id="boot-camp-for-women-in-science-engineering"&gt;
+&lt;h2&gt;Boot Camp for Women in Science &lt;span class="amp"&gt;&amp;amp;&lt;/span&gt;&amp;nbsp;Engineering&lt;/h2&gt;
+&lt;p&gt;Hosted by Software Carpentry and&amp;nbsp;NumFOCUS&lt;/p&gt;
+&lt;p&gt;On June 24-25&amp;nbsp;&lt;a class="reference external" href="http://numfocus.org/"&gt;NumFOCUS&lt;/a&gt; and &lt;a class="reference external" href="http://www.software-carpentry.org"&gt;Software Carpentry&lt;/a&gt; are hosting a software skills boot camp in Boston for 120 women in science and engineering. We are seeking sponsorship from companies and others who would like to help support our efforts to hold similar events in other&amp;nbsp;locations.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://numfocus.org/numfocus-is-currently-raising-funds-for-the-following/boot-camp-for-women-in-science-engineering/"&gt;**For More&amp;nbsp;Information**&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Make a&amp;nbsp;Donation&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td style="text-align: center;"&gt;
+ &lt;em&gt;PayPal&lt;/em&gt;
+&lt;/td&gt;
+&lt;td style="text-align: center;"&gt;
+&lt;/td&gt;
+&lt;/tr&gt;&lt;p&gt;&lt;em&gt;Google&amp;nbsp;Checkout&lt;/em&gt;&lt;/p&gt;
+&lt;tr&gt;
+&lt;td style="vertical-align: middle;"&gt;
+&lt;form action="https://www.paypal.com/cgi-bin/webscr" method="post"&gt;
+&lt;/form&gt;
+&lt;/td&gt;
+&lt;td style="vertical-align: middle;"&gt;
+&lt;script type="text/javascript"&gt;// &lt; ![CDATA[&lt;br&gt;&lt;/br&gt;
+function validateAmount(amount){    if(amount.value.match( /^[0-9]+(\.([0-9]+))?$/)){       return true;    }else{      alert('You must enter a valid donation.');      amount.focus();         return false;   } }&lt;br&gt;&lt;/br&gt;
+// ]]&gt;&lt;/script&gt;
+&lt;/p&gt;
+&lt;form id="BB_BuyButtonForm" action="https://checkout.google.com/cws/v2/Donations/112611646391039/checkoutForm" method="post" name="BB_BuyButtonForm" target="_top" onsubmit="return validateAmount(this.item_price_1)"&gt;
+&lt;/p&gt;&lt;table border="1" class="docutils"&gt;
+&lt;colgroup&gt;
+&lt;col width="60%" /&gt;
+&lt;col width="40%" /&gt;
+&lt;/colgroup&gt;
+&lt;tbody valign="top"&gt;
+&lt;tr&gt;&lt;td&gt;$&lt;/td&gt;
+&lt;td&gt;&amp;nbsp;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/form&gt;
+&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;&lt;p&gt;Suggested minimum donation:&amp;nbsp;$10&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="john-hunter-technical-fellowship"&gt;
+&lt;h2&gt;John Hunter Technical&amp;nbsp;Fellowship&lt;/h2&gt;
+&lt;p&gt;We are now accepting donations to fund the John Hunter Technical&amp;nbsp;Fellowship.&lt;/p&gt;
+&lt;p&gt;This educational program furthers our mission, as a public charity, to promote
+the use of accessible and reproducible computing in science and open-source&amp;nbsp;technology.&lt;/p&gt;
+&lt;p&gt;The purpose of the NumFOCUS Technology Fellowship is to bridge the gap between
+academia and real-world, open-source coding projects by providing a capstone
+experience for individuals coming from a scientific educational&amp;nbsp;background.&lt;/p&gt;
+&lt;p&gt;The program consists of a 3-18 month project-based training program for
+graduate students, postdoctoral scientists and early-career faculty. Fellows
+work on actual open source software projects under the guidance of mentors who
+are leading scientists and software engineers. &amp;nbsp;Collaboration with these top
+industry developers enables scientists to develop specific skills needed to
+contribute to cutting-edge open-source&amp;nbsp;software.&lt;/p&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Scientific Computing with Python</title><link href="http://numfocus.github.io/numfocus.org/news/2012/02/25/scientific-computing-with-python/" rel="alternate"></link><updated>2012-02-25T16:31:00-06:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2012-02-25:numfocus.org/news/2012/02/25/scientific-computing-with-python/</id><summary type="html">&lt;img alt="SciPy logo" src="http://gallery.mailchimp.com/e91b4574d5d1709a9dc4f7ab7/images/scipy_logo_shiny_blue_no_reflec.png" /&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://conference.scipy.org/scipy2013/"&gt;SciPy&lt;/a&gt; will be June 24-29, 2013 in Austin,&amp;nbsp;Texax&lt;/p&gt;
+</summary></entry><entry><title>Women in Science and Engineering Boot Camp</title><link href="http://numfocus.github.io/numfocus.org/news/2012/02/25/women-in-science-and-engineering-boot-camp/" rel="alternate"></link><updated>2012-02-25T16:31:00-06:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2012-02-25:numfocus.org/news/2012/02/25/women-in-science-and-engineering-boot-camp/</id><summary type="html">&lt;p&gt;Due in part to a generous donation made by &lt;span class="caps"&gt;J.P.&lt;/span&gt; Morgan to NumFOCUS, we are
+pleased to announce that &lt;a class="reference external" href="http://numfocus.org/"&gt;NumFOCUS&lt;/a&gt; will be collaborating with &lt;a class="reference external" href="software-carpentry.org"&gt;Software Carpentry&lt;/a&gt;
+to host a series of  boot camps to offer training for women in technology. The
+first, a boot camp for 120 women in science and engineering, will be held at
+the Microsoft Research Center in Cambridge, Massachusetts on June&amp;nbsp;24-25.&lt;/p&gt;
+&lt;div class="section" id="about"&gt;
+&lt;h2&gt;About&lt;/h2&gt;
+&lt;p&gt;The goal of this event is to help scientists and engineers become more
+productive by teaching them basic computing skills like program design, version
+control, testing, and task automation. In this two-day boot camp, short
+tutorials will alternate with hands-on practical exercises.
+The boot camp is open to female graduate students, post-docs, faculty members,
+staff scientists, or their equivalent in science, engineering, medicine, or a
+related field in academia, industry, or the public and non-profit&amp;nbsp;sectors.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="sponsors"&gt;
+&lt;h2&gt;Sponsors&lt;/h2&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;&lt;span class="caps"&gt;J.P.&lt;/span&gt;&amp;nbsp;Morgan&lt;/li&gt;
+&lt;li&gt;Alfred P. Sloan&amp;nbsp;Foundation&lt;/li&gt;
+&lt;li&gt;Mozilla&amp;nbsp;Foundation&lt;/li&gt;
+&lt;li&gt;Microsoft&amp;nbsp;Corporation&lt;/li&gt;
+&lt;li&gt;Intel&lt;/li&gt;
+&lt;li&gt;King Abdullah University of Science and&amp;nbsp;Technology&lt;/li&gt;
+&lt;li&gt;Python Software&amp;nbsp;Foundation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
+</summary></entry><entry><title>Tokyo SciPy</title><link href="http://numfocus.github.io/numfocus.org/news/2012/02/25/tokyo-scipy2012/" rel="alternate"></link><updated>2012-02-25T15:47:00-06:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2012-02-25:numfocus.org/news/2012/02/25/tokyo-scipy2012/</id><summary type="html">&lt;img alt="Audience at Tokyo SciPy" src="http://numfocus.github.io/numfocus.org/media/img/articles/Tokyo-SciPy.jpg" /&gt;
+&lt;p&gt;Chairman of NumFOCUS&amp;#8217; Board of Director&amp;#8217;s, Travis Oliphant, spoke at the
+March meeting of Tokyo SciPy via live webcast.&amp;nbsp; Topics he covered
+included the history of&amp;nbsp;&lt;a class="reference external" href="http://scipy.org/"&gt;SciPy&lt;/a&gt;, where&amp;nbsp;&lt;a class="reference external" href="http://numpy.org/"&gt;NumPy&amp;nbsp;&lt;/a&gt;should go next,
+and Numba. &amp;nbsp;Questions were asked regarding sparse matrix integration
+with NumPy, and&amp;nbsp;packaging.&lt;/p&gt;
+&lt;p&gt;Tokyo SciPy member, Syoyo, gave Travis the link to his code for
+simulating smoke, &amp;nbsp;&lt;a class="reference external" href="http://code.google.com/p/smoke3d/"&gt;http://code.google.com/p/smoke3d/&lt;/a&gt;.&amp;nbsp; Perhaps at
+some point, Syoyo will be able to make that code fast using&amp;nbsp;Python.&lt;/p&gt;
+&lt;p&gt;Despite a late night, due to the fourteen hour time difference between
+Austin and Tokyo, Travis spoke for over an hour.&amp;nbsp; He later stated, “…it
+was nice to see that SciPy and NumPy have a user community in&amp;nbsp;Japan.”&lt;/p&gt;
+</summary></entry><entry><title>EuroSciPy 2012</title><link href="http://numfocus.github.io/numfocus.org/news/2012/02/25/euroscipy-2012/" rel="alternate"></link><updated>2012-02-25T15:46:00-06:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2012-02-25:numfocus.org/news/2012/02/25/euroscipy-2012/</id><summary type="html">&lt;p&gt;This year&amp;#8217;s EuroSciPy conference will be held
+in&amp;nbsp;&lt;strong&gt;Brussels&lt;/strong&gt;,&amp;nbsp;&lt;strong&gt;August 23-27&lt;/strong&gt;, at the Université Libre de
+Bruxelles (&lt;span class="caps"&gt;ULB&lt;/span&gt;, Solbosch Campus). &amp;nbsp;This Euroscipy meeting will be the
+5th edition of this cross-disciplinary gathering, focused on the use and
+development of the Python language in scientific research and&amp;nbsp;industry.&lt;/p&gt;
+</summary></entry><entry><title>Python in Astronomy</title><link href="http://numfocus.github.io/numfocus.org/news/2012/02/25/python-in-astronomy/" rel="alternate"></link><updated>2012-02-25T00:00:00-06:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2012-02-25:numfocus.org/news/2012/02/25/python-in-astronomy/</id><summary type="html">&lt;img alt="blackhole picture" src="http://numfocus.github.io/numfocus.org/media/img/articles/sn-blackholes.jpg" /&gt;
+&lt;p&gt;On 28 March, &lt;span class="caps"&gt;NASA&lt;/span&gt;’s Swift satellite&amp;nbsp;&lt;a class="reference external" href="http://news.sciencemag.org/sciencenow/2011/04/star-eating-black-hole-may-be-pr.html?ref=hp"&gt;observed a flash of gamma rays
+brighter than anything astronomers had seen before&lt;/a&gt;. It soon became
+evident that the event wasn’t a typical gamma ray burst, an emission of
+high-energy radiation that often accompanies a supernova explosion. The
+flash didn’t die out but was sustained for weeks, and although it has
+faded in intensity, it is still going strong 2½ months later. Two papers
+published online today in&amp;nbsp;&lt;em&gt;Science&lt;/em&gt;&amp;nbsp;provide an explanation for this
+luminous surprise. The flare is in fact&amp;nbsp;&lt;a class="reference external" href="http://www.sciencemag.org/cgi/content/abstract/science.1207143"&gt;a high-energy jet of
+radiation&lt;/a&gt;&amp;nbsp;produced by a star falling into a black hole at the center
+of a galaxy 4 billion light-years away. The reason the flare is so
+bright is that the jet is pointed straight in the direction of Earth.
+And it’s sustained because &lt;a class="reference external" href="http://www.sciencemag.org/cgi/content/abstract/science.1207150"&gt;the black hole is consuming the star
+gradually&lt;/a&gt;. “That’s because as the black hole rips the star apart, the
+mass swirls around like water going down a drain, and this swirling
+process releases a lot of energy,” says Joshua Bloom, an astronomer at
+the University of California, Berkeley, and lead author of one of the
+two papers. Bloom expects the flare to fade out over the next&amp;nbsp;year.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://news.sciencemag.org/sciencenow/2011/06/scienceshot-powerful-jet-being.html?ref=hp"&gt;http://news.sciencemag.org/sciencenow/2011/06/scienceshot-powerful-jet-being.html?ref=hp&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;by&amp;nbsp;Yudhijit Bhattacharjee&amp;nbsp;on&amp;nbsp;16 June 2011, 2:00 &lt;span class="caps"&gt;PM&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;For related story and photo,&amp;nbsp;&lt;a class="reference external" href="http://discovermagazine.com/2012/jan-feb/14"&gt;http://discovermagazine.com/2012/jan-feb/14&lt;/a&gt;.&lt;/p&gt;
+</summary></entry><entry><title>Circuitscape Protects Endangered Species Using PyAMG</title><link href="http://numfocus.github.io/numfocus.org/news/2012/02/25/python-pyamg/" rel="alternate"></link><updated>2012-02-25T00:00:00-06:00</updated><author><name>Leah Silen</name></author><id>tag:numfocus.github.io,2012-02-25:numfocus.org/news/2012/02/25/python-pyamg/</id><summary type="html">&lt;img alt="Mountain lion movement graphic" src="http://numfocus.github.io/numfocus.org/media/img/articles/zimmer_gene_circuit_500px.jpg" /&gt;
+&lt;p&gt;Scientists map the &amp;quot;current&amp;quot; of mountain lions moving between mountain ranges. Blue shows areas of low current density, which are expected to have low densities of dispersing mountain lions; yellow designates movement bottlenecks, which are most vulnerable to habitat destruction. Destroying high-flow habitat can isolate populations and endanger their survival.&amp;nbsp;&lt;strong&gt;Image:&amp;nbsp;Brad McRae and Brett&amp;nbsp;Dickson&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://code.google.com/p/pyamg/"&gt;PyAMG&lt;/a&gt; is an open-source numerical package of multigrid and Krylov
+solvers for sparse matrices in Python.&amp;nbsp; One of the biggest users of
+PyAMG is &lt;a class="reference external" href="http://www.circuitscape.org/Circuitscape/Welcome.html"&gt;Circuitscape&lt;/a&gt;. This open-source software program borrows
+algorithms from electronic circuit theory to predict patterns of
+movement, gene flow, and genetic differentiation among plant and animal
+populations in heterogeneous landscapes.&amp;nbsp; Circuit theory complements
+least-cost path approaches because it considers effects of all possible
+pathways across a landscape&amp;nbsp;simultaneously.&lt;/p&gt;
+&lt;p&gt;&lt;a class="reference external" href="http://www.circuitscape.org/Circuitscape/Welcome.html"&gt;Circuitscape&lt;/a&gt; was written by&amp;nbsp;&lt;a class="reference external" href="http://www.nceas.ucsb.edu/~mcrae/Welcome.html"&gt;Brad McRae&lt;/a&gt; and &lt;a class="reference external" href="http://www.allthingshpc.org/"&gt;Viral Shah&lt;/a&gt;.
+Brad&amp;nbsp;is an Ecologist with the &lt;a class="reference external" href="http://waconservation.org/"&gt;The Nature Conservancy&lt;/a&gt; in Seattle.&amp;nbsp; He
+works on habitat connectivity conservation, climate change, and
+landscape genetics. &amp;nbsp;Viral&amp;nbsp;is a Senior Scientist with &lt;a class="reference external" href="http://www.interactivesupercomputing.com/"&gt;Interactive
+Supercomputing&lt;/a&gt; and a Visiting Scientist at the &lt;a class="reference external" href="http://www.ucsb.edu/"&gt;University of
+California, Santa Barbara.&amp;nbsp;&lt;/a&gt;He develops systems for scientific
+computing for work and for&amp;nbsp;fun.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;For additional information on&amp;nbsp;`Circuitscape`_:&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The authors presentation at SciPy 2008:
+&lt;a class="reference external" href="http://www.circuitscape.org/Circuitscape/Pubs_files/Shah_McRae_Circuitscape_Python_Scipy08.pdf"&gt;http://www.circuitscape.org/Circuitscape/Pubs_files/Shah_McRae_Circuitscape_Python_Scipy08.pdf&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Conservation Magazine:&lt;/em&gt; &lt;a class="reference external" href="http://www.conservationmagazine.org/articles/v9n1/circuitous-routes/"&gt;Circuitous Routes: Circuit Theory Guides
+Wildlife Corridor Design by Eric&amp;nbsp;Wagner&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Wired Magazine:&lt;/em&gt;  &lt;a class="reference external" href="http://www.wired.com/science/planetearth/news/2007/12/dissection_1210"&gt;Scientist Employs &amp;#8216;Circuit Theory&amp;#8217; to Protect Endangered Species by Carl&amp;nbsp;Zimmer&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Convergence Magazine:&lt;/em&gt; &lt;a class="reference external" href="http://convergence.ucsb.edu/article/where-wild-things-are"&gt;Where the Wild Things Are by Anna&amp;nbsp;Davison&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Earthtimes.org&lt;/em&gt;: &lt;a class="reference external" href="http://www.earthtimes.org/articles/show/news_press_release,90605.shtml"&gt;Where Mountain Lions Roam: Star-P Helps Decipher
+Threatened Wildlife&amp;nbsp;Migration&lt;/a&gt;&lt;/p&gt;
+</summary></entry></feed>

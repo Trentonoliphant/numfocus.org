@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>NumFOCUS Foundation</title><link>http://numfocus.github.io/numfocus.org/</link><description></description><atom:link href="http://numfocus.github.io/numfocus.org/feeds/ralf-gommers.rss.xml" rel="self"></atom:link><lastBuildDate>Tue, 01 Jul 2014 00:00:00 -0500</lastBuildDate><item><title>John Hunter Technology Fellowship awarded</title><link>http://numfocus.github.io/numfocus.org/news/2014/07/01/john-hunter-technology-fellowship-awarded/</link><description>&lt;img alt="Olga Botvinnik" src="/media/img/fellowships/olga_botvinnik_2014fellow.jpg" style="height: 150px;" /&gt;
+&lt;p&gt;We&amp;#8217;re thrilled to announce that the &lt;a class="reference external" href="http://numfocus.github.io/numfocus.org/pages/john_hunter_fellowship_2014.html"&gt;2014 John Hunter Fellowship&lt;/a&gt; has been
+awarded to &lt;strong&gt;Olga Botvinnik, &lt;span class="caps"&gt;UC&lt;/span&gt; San Diego&lt;/strong&gt;.  The focus of her Fellowship will
+be to create open source analysis software for the single-cell and biology
+communities, and to pioneer data, code sharing, and computational
+reproducibility within the single-cell and &lt;span class="caps"&gt;RNA&lt;/span&gt; biology communities.  She will
+take up this Fellowship in the second half of 2014, and collaborate
+with her academic mentor &lt;a class="reference external" href="http://yeolab.ucsd.edu/yeolab/Home.html"&gt;Gene Yeo&lt;/a&gt; and software mentor &lt;a class="reference external" href="http://ged.msu.edu/"&gt;C. Titus Brown&lt;/a&gt;. You can
+read more about &lt;a class="reference external" href="http://olgabotvinnik.com/"&gt;Olga&amp;#8217;s work at her&amp;nbsp;site.&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The selection process was not an easy one - there were a number of high quality
+applicants that we would have loved to be able to award a fellowship.
+Honorable Mentions go to &lt;strong&gt;Damien Irving (University of Melbourne)&lt;/strong&gt;
+and &lt;strong&gt;Connie Gao (&lt;span class="caps"&gt;MIT&lt;/span&gt;)&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;This first Numfocus Fellowship Program has gotten off to a promising start.
+We&amp;#8217;re aiming to expand the program in the coming years to 5-10 fellowships each&amp;nbsp;year.&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ralf Gommers</dc:creator><pubDate>Tue, 01 Jul 2014 00:00:00 -0500</pubDate><guid>tag:numfocus.github.io,2014-07-01:numfocus.org/news/2014/07/01/john-hunter-technology-fellowship-awarded/</guid></item><item><title>Announcing the NumFOCUS Technology Fellowship Program</title><link>http://numfocus.github.io/numfocus.org/news/2014/03/11/announcing-the-numfocus-technology-fellowship-program/</link><description>&lt;p&gt;From the beginning of its founding, Numfocus has aimed at setting up a
+Technology Fellowship Program. Therefore we&amp;#8217;re thrilled that this Program is
+now a reality, with the first &lt;a class="reference external" href="http://numfocus.github.io/numfocus.org/pages/john_hunter_fellowship_2014.html"&gt;call for applications&lt;/a&gt; issued&amp;nbsp;today.&lt;/p&gt;
+&lt;p&gt;The vision for the Program is to award 5-10 fellowships each year, with the
+majority of funding coming from industry.  The dual goals of the Program are to
+provide a capstone experience for talented individuals after completion or
+towards the end of their PhD, while at the same time boosting open source
+scientific computing projects - in line with Numfocus&amp;#8217; mission. That mission
+was also guiding for selecting these topics as the ones for which applications
+are particularly&amp;nbsp;encouraged:&lt;/p&gt;
+&lt;ul class="simple"&gt;
+&lt;li&gt;Accessible and reproducible&amp;nbsp;computing&lt;/li&gt;
+&lt;li&gt;Enabling technology for open access&amp;nbsp;publishing&lt;/li&gt;
+&lt;li&gt;Infrastructural technology supporting open-source scientific software&amp;nbsp;stacks&lt;/li&gt;
+&lt;li&gt;Core open-source projects promoted by&amp;nbsp;NumFOCUS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;A fellowship is awarded to the Fellow, it&amp;#8217;s explicitly not research funding for
+his/her mentor (although we of course expect that any Fellow will prove to be
+an asset for any research project(s) he&amp;#8217;s involved in). This is a deliberate
+choice; while a good mentor (and host institution) is very important in order
+for the fellowship to be successful, the fellow himself is more important
+still. Also, the educational goals of the fellowship program require that we
+weigh the potential educational value to the applicant in addition to the
+quality of the applicant and of his/her&amp;nbsp;proposal.&lt;/p&gt;
+&lt;p&gt;Numfocus values transparency in how it operates, and that includes disclosing
+how the funding for this first fellowship was obtained. The main funder is &lt;span class="caps"&gt;JP&lt;/span&gt;
+Morgan who, as we published &lt;a class="reference external" href="http://numfocus.github.io/numfocus.org/news/2013/11/08/jp-morgan-sponsors-pydata-and-women-in-technology/"&gt;before&lt;/a&gt;, committed $25k to a fellowship. Then
+when we decided on a 6 month duration and looked at the income situation for
+postdoctoral fellows, we decided that while $25k (= $50k/yr) is quite common
+(see what &lt;span class="caps"&gt;NIH&lt;/span&gt; rates are for example), it&amp;#8217;s unacceptably low given that we want
+to receive applications from strong candidates in science and engineering.
+Instead $33k is a lot more reasonable. The remaining $8k of funding is taken
+from Numfocus income - personal donations and the share of proceeds from the PyData
+conference that PyData donates to&amp;nbsp;Numfocus.&lt;/p&gt;
+&lt;p&gt;You may have noticed that we named this first fellowship in honor of John
+Hunter, the late Matplotlib founder and one of the founding directors of
+Numfocus. We intend to award one John Hunter Fellowship each year. Other
+fellowships will likely simply be named Numfocus Technology&amp;nbsp;Fellowship.&lt;/p&gt;
+&lt;p&gt;Given that this is the first round of applications, we&amp;#8217;re also very interested
+in any kind of feedback you may have (please send to &lt;a class="reference external" href="mailto:info&amp;#64;numfocus.org"&gt;info&amp;#64;numfocus.org&lt;/a&gt; or the
+numfocus mailing list) - what information is still missing, what would have
+made this call (even) more interesting for you, what elements should we
+definitely keep,&amp;nbsp;etc.&lt;/p&gt;
+&lt;p&gt;We&amp;#8217;re looking forward to receiving strong and exciting&amp;nbsp;applications!&lt;/p&gt;
+</description><dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Ralf Gommers</dc:creator><pubDate>Tue, 11 Mar 2014 00:00:00 -0500</pubDate><guid>tag:numfocus.github.io,2014-03-11:numfocus.org/news/2014/03/11/announcing-the-numfocus-technology-fellowship-program/</guid></item></channel></rss>
